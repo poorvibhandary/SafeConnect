@@ -1,0 +1,14 @@
+[
+    {
+        "username": "child001",
+        "password": "1234",
+        "role": "child",
+        "parent": "parent001"
+    },
+    {
+        "username": "parent001",
+        "password": "1234",
+        "role": "parent",
+        "child": "child001"
+    }
+]
